@@ -1,0 +1,19 @@
+Hi There !
+
+0 : Ground
+1 : spikes
+. : End of the map
+
+Please, respect the format (6 lines)
+The map should end with a 7th line with a dot.
+
+/!\ DO NOT EXCEED 1000 CARAC PER LINE TO PRESERVE THE FPS /!\
+
+ex :
+      
+      
+      
+      
+   1  
+000000
+.
