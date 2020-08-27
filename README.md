@@ -17,4 +17,4 @@ Les projets les plus interessants sont les suivants :
 Evidemment, les autres projets sont intéressants, mais ne demande pas des compétences aussi aboutis que ceux la.
 
 
-> :warning: **Aux étudiant d'Epitech**: Recopier ces projets peut vous conduire à des sanctions de la part d'Epitech, je ne serais en aucun cas responsable de vos **-42** ;)
+> :warning: **Aux étudiants d'Epitech**: Recopier ces projets peut vous conduire à des sanctions de la part d'Epitech, je ne serais en aucun cas responsable de vos **-42** ;)
